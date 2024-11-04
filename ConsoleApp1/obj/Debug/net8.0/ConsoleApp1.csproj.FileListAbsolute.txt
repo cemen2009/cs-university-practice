@@ -12,3 +12,4 @@ C:\software_development\cs-university-practice\ConsoleApp1\obj\Debug\net8.0\refi
 C:\software_development\cs-university-practice\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\software_development\cs-university-practice\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\software_development\cs-university-practice\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\software_development\cs-university-practice\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

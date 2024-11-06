@@ -1,5 +1,4 @@
-﻿using System;
-using BasicOOP;
+﻿using Laba01;
 
 namespace BasicOOP
 {
@@ -38,7 +37,10 @@ public static class Program
 {
     public static void Main(string[] args)
     {
-        Sphere sphere = new Sphere(2);
-        Console.WriteLine($"area: {sphere.GetCalculatedArea()}");
+        Sphere sphere = new Sphere(2f);
+        Parallelepiped parallelepiped = new Parallelepiped(1f, 3.5f, 1.2f);
+        Tetrahedron tetrahedron = new Tetrahedron(3f);
+
+        Console.WriteLine($"sphere volume: {sphere.GetCapacity()}\nparallelepiped volume: {parallelepiped.GetCapacity()}\ntetrahedron volume: {tetrahedron.GetCapacity()}");
     }
 }

@@ -1,0 +1,12 @@
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfoInputs.cache
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\MathOperations.AssemblyInfo.cs
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\MathOperations.csproj.CoreCompileInputs.cache
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\MathOperations.sourcelink.json
+C:\software_development\cs-university-practice\MathOperations\bin\Debug\net8.0\MathOperations.deps.json
+C:\software_development\cs-university-practice\MathOperations\bin\Debug\net8.0\MathOperations.dll
+C:\software_development\cs-university-practice\MathOperations\bin\Debug\net8.0\MathOperations.pdb
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\MathOperations.dll
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\refint\MathOperations.dll
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\MathOperations.pdb
+C:\software_development\cs-university-practice\MathOperations\obj\Debug\net8.0\ref\MathOperations.dll
